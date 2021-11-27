@@ -1,0 +1,58 @@
+{
+  "_from": "@rn-components-kit/progress",
+  "_id": "@rn-components-kit/progress@1.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-oizl3T0Nl+ozXIxZOoEcUo5Tw4YIRhgdgnfjADYMy9Td7JZxOKCz+Ppy21ANeRLQjs/oXqHttGGLQ0dctDWVPg==",
+  "_location": "/@rn-components-kit/progress",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@rn-components-kit/progress",
+    "name": "@rn-components-kit/progress",
+    "escapedName": "@rn-components-kit%2fprogress",
+    "scope": "@rn-components-kit",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@rn-components-kit/progress/-/progress-1.0.1.tgz",
+  "_shasum": "0d1e08ff657fd0c5f0cbaf62b5e39082362c2ccf",
+  "_spec": "@rn-components-kit/progress",
+  "_where": "D:\\mybin",
+  "author": {
+    "name": "SmallStoneSK"
+  },
+  "bugs": {
+    "url": "https://github.com/SmallStoneSK/rn-components-kit/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@rn-components-kit/icon": "^1.0.2",
+    "@rn-components-kit/text": "^1.0.0",
+    "react-native-linear-gradient": "^2.5.4"
+  },
+  "deprecated": false,
+  "description": "Display the current progress of an operation flow.",
+  "homepage": "https://github.com/SmallStoneSK/rn-components-kit#readme",
+  "keywords": [
+    "react-native",
+    "reactnative",
+    "reactjs",
+    "UI kit",
+    "progress"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "@rn-components-kit/progress",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/SmallStoneSK/rn-components-kit.git"
+  },
+  "types": "index.d.ts",
+  "version": "1.0.1"
+}

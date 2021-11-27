@@ -1,0 +1,46 @@
+{
+  "_from": "@rn-components-kit/text@^1.0.0",
+  "_id": "@rn-components-kit/text@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-BA4qLHFtQWebrBgva0rabDRBXsCv8QpmOImd4Yax6rEOI7AajmRspfKGaBi6IuoiDlZtxvogtlF71aKigwICfQ==",
+  "_location": "/@rn-components-kit/text",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@rn-components-kit/text@^1.0.0",
+    "name": "@rn-components-kit/text",
+    "escapedName": "@rn-components-kit%2ftext",
+    "scope": "@rn-components-kit",
+    "rawSpec": "^1.0.0",
+    "saveSpec": null,
+    "fetchSpec": "^1.0.0"
+  },
+  "_requiredBy": [
+    "/@rn-components-kit/checkbox",
+    "/rn-components-kit"
+  ],
+  "_resolved": "https://registry.npmjs.org/@rn-components-kit/text/-/text-1.0.0.tgz",
+  "_shasum": "011d6d73f5adc5f5de1a630ff31b619a441ce62b",
+  "_spec": "@rn-components-kit/text@^1.0.0",
+  "_where": "D:\\mybin\\node_modules\\rn-components-kit",
+  "author": {
+    "name": "SmallStoneSK"
+  },
+  "bugs": {
+    "url": "https://github.com/SmallStoneSK/rn-components-kit/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Text component",
+  "homepage": "https://github.com/SmallStoneSK/rn-components-kit#readme",
+  "license": "MIT",
+  "main": "index.js",
+  "name": "@rn-components-kit/text",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/SmallStoneSK/rn-components-kit.git"
+  },
+  "types": "index.d.ts",
+  "version": "1.0.0"
+}

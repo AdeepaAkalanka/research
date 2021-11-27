@@ -1,0 +1,53 @@
+{
+  "_from": "@rn-components-kit/icon@^1.0.0",
+  "_id": "@rn-components-kit/icon@1.0.3",
+  "_inBundle": false,
+  "_integrity": "sha512-aa8e1zdnkgDhYhsWGuYni+uS5naik5d20ng9N1+81Tz0e3rVDgpllon9uEQH9yM/9KnsUpKjaeg2n8tfUD3Vpg==",
+  "_location": "/@rn-components-kit/icon",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@rn-components-kit/icon@^1.0.0",
+    "name": "@rn-components-kit/icon",
+    "escapedName": "@rn-components-kit%2ficon",
+    "scope": "@rn-components-kit",
+    "rawSpec": "^1.0.0",
+    "saveSpec": null,
+    "fetchSpec": "^1.0.0"
+  },
+  "_requiredBy": [
+    "/@rn-components-kit/checkbox",
+    "/rn-components-kit"
+  ],
+  "_resolved": "https://registry.npmjs.org/@rn-components-kit/icon/-/icon-1.0.3.tgz",
+  "_shasum": "b4988f0feba5860862736ace87c7ebcac67f3aed",
+  "_spec": "@rn-components-kit/icon@^1.0.0",
+  "_where": "D:\\mybin\\node_modules\\rn-components-kit",
+  "author": {
+    "name": "SmallStoneSK"
+  },
+  "bugs": {
+    "url": "https://github.com/SmallStoneSK/rn-components-kit/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Semantic vector graphics.",
+  "homepage": "https://github.com/SmallStoneSK/rn-components-kit#readme",
+  "keywords": [
+    "react-native",
+    "reactnative",
+    "reactjs",
+    "UI kit",
+    "icon"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "@rn-components-kit/icon",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/SmallStoneSK/rn-components-kit.git"
+  },
+  "types": "index.d.ts",
+  "version": "1.0.3"
+}
